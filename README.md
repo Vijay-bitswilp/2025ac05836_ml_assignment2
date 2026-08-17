@@ -463,7 +463,7 @@ The complete project source code, trained model files, notebook, test dataset an
 
 **GitHub Repository Link:**
 
-`PASTE_GITHUB_REPOSITORY_LINK_HERE`
+`https://github.com/Vijay-bitswilp/2025ac05836_ml_assignment2`
 
 ---
 
