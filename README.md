@@ -470,15 +470,15 @@ https://github.com/Vijay-bitswilp/2025ac05836_ml_assignment2
 ## 15. Repository Structure
 
 ```text
-ML_Assignment2/
+2025ac05836_ml_assignment2/
 │
 ├── app.py
-├── ML_assignment2.ipynb
 ├── test_data.csv
 ├── requirements.txt
 ├── README.md
 │
 └── model/
+    ├── ML_assignment2.ipynb
     ├── logistic_regression.pkl
     ├── decision_tree.pkl
     ├── knn.pkl
